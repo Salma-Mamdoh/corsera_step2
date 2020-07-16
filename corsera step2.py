@@ -1,0 +1,5 @@
+import pandas as pd
+from pandas import  dataframe
+d=[1,2,3]
+df.read("https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M")
+df=dataframe(data=d,colums=["postelcode","Borough",["neighborhood"])
